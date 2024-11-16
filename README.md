@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+✨ Hi, my name is Shrey. I am a software developer at a Fin-Tech startup. I have graduated from Indian Institute of Technology Jammu with a degree in Computer Science.
+
+💎 I am a passionate coder, programmer, and developer. I excel in front-end and backend. Along with this, I have a keen interest in Machine Learning and Computer Vision as well.
+
+🎈 Feel free to contact me at: shrma.shray@gmail.com
 
 <!--
 **shrey265/shrey265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
